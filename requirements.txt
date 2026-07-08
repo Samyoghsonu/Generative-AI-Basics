@@ -6,3 +6,14 @@ langchain-ollama
 faiss-cpu
 langchain_classic
 streamlit
+ipykernel
+langchain_groq
+langchain_openai
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
+transformers
+sentencepiece
+torch
