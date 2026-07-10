@@ -1,6 +1,8 @@
 langchain
 python-dotenv
 langchain_community
+langchain_huggingface
+langchain_chroma
 bs4
 langchain-ollama
 faiss-cpu
@@ -17,4 +19,5 @@ langserve
 sse_starlette
 transformers
 sentencepiece
+sentence-transformers
 torch
